@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 2%;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+
+#RedAlert{
+    margin:15px;
+    background-color: rgb(255, 138, 138);
+    border-color: red;
+
+}
+
+#GreenAlert{
+    margin: 15px;
+    background-color: rgb(167, 255, 167);
+    border-color: green;
+}
+
+.path{
+    padding-right: 25%;
+    padding-left: 25%;
+  
+    
+}
+
+#structure{
+    background-color:cornflowerblue;
+  
+    border-right: 40px;
+    border-left: 40px;
+
+ 
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+
+    position: relative;
+}
+
+#button{
+   margin: 20px
+}
+
+.information{
+    background-color:blue;
+    opacity: 1;
+    margin-left: 26%;
+    top: 105%;
+    border-radius: 10px;
+    display: flex;
+    text-align:right;
+    position: absolute;
+    color: white;
+}
+.info{
+  margin: 20px;
+}
+
